@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kanakdvd
-- 👀 I’m interested in Android app development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kanak Dwivedi
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Full-Stack web development project
 - 📫 How to reach me dwivedi.kanak9876@gmail.com
 
 <!---
